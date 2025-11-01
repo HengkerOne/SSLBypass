@@ -7,7 +7,7 @@
 
 ## 📝 Deskripsi Proyek
 
-**Android Security Bypass Generator (ASBG)** adalah *tool* berbasis Python yang dirancang untuk menganalisis kode sumber atau APK aplikasi Android dan secara otomatis menghasilkan (generate) skrip JavaScript untuk **Frida**.
+**Android Security SSL Bypass  (ASSB)** adalah *tool* berbasis Python yang dirancang untuk menganalisis kode sumber atau APK aplikasi Android dan secara otomatis menghasilkan (generate) skrip JavaScript untuk **Frida**.
 
 Skrip Frida yang dihasilkan bertujuan untuk menonaktifkan atau melewati (bypass) berbagai mekanisme pemeriksaan keamanan yang sering diimplementasikan dalam aplikasi seluler, terutama yang terkait dengan:
 
