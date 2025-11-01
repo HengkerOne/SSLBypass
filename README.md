@@ -1,4 +1,4 @@
-# 🛡️ Android Security Bypass Generator (ASBG)
+# 🛡️ Android Security SSL Bypass (ASSB)
 ## Alat Otomatisasi Skrip Frida untuk Melewati Deteksi Keamanan
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
