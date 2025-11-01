@@ -49,3 +49,7 @@ Gunakan pip untuk menginstal *client* Frida di komputer Anda:
 
 ```bash
 pip install frida-tools
+pip install androguard==3.3.5
+git clone https://github.com/HengkerOne/SLLBypass.git
+cd SLLBypass
+python SLLBypass.py
